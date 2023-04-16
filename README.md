@@ -3,9 +3,13 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+
+* Zibo Ye
+  * [LinkedIn](https://www.linkedin.com/in/zibo-ye/)
+  * [Personal website](https://www.etc.cmu.edu/blog/author/ziboy/)
+  * [Twitter](https://twitter.com/zibo_ye), etc.
+  * This is a guy trying to self-learn ways to optimize GPU codes.
+* Tested on: Windows 11, AMD R7-5800H @ 3.2GHz (Up to 4.4Ghz) 32GB, RTX 3080 Mobile 16GB
 
 ### (TODO: Your README)
 
