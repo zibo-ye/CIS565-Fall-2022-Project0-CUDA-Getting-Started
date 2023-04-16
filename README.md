@@ -6,7 +6,7 @@ Project 0 Getting Started
 
 * My name: Zibo Ye
   * [LinkedIn](https://www.linkedin.com/in/zibo-ye/)
-  * [Personal website](https://www.etc.cmu.edu/blog/author/ziboy/)
+  * [CMU ETC Intro Page](https://www.etc.cmu.edu/blog/author/ziboy/)
   * [Twitter](https://twitter.com/zibo_ye)
   * This is a guy trying to self-learn ways to optimize GPU codes.
 * Tested on: Windows 11, AMD R7-5800H @ 3.2GHz (Up to 4.4Ghz) 32GB, RTX 3080 Mobile 16GB
